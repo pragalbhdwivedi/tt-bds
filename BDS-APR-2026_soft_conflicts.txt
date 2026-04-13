@@ -1,0 +1,15 @@
+﻿Soft conflicts of BDS-APR-2026.fet
+Generated with FET 7.1.7 on 4/13/26 2:19 PM
+
+Number of broken soft constraints: 5
+Total soft conflicts: 4.75
+
+Soft conflicts list (in decreasing order):
+
+Time constraint min days between activities broken: activity with id=84 (    1/6 - Annu - EVS - L1) conflicts with activity with id=83 (    1/6 - Annu - EVS - L1), being 1 days too close, on days Mo and Mo, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
+Time constraint min days between activities broken: activity with id=211 (    1/7 - Deepak - MAT - C3) conflicts with activity with id=209 (    1/7 - Deepak - MAT - C3), being 1 days too close, on days Sa and Sa, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
+Time constraint min days between activities broken: activity with id=224 (    1/7 - Shahrukh - MAT - C5) conflicts with activity with id=221 (    1/7 - Shahrukh - MAT - C5), being 1 days too close, on days We and We, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
+Time constraint min days between activities broken: activity with id=231 (    1/6 - Shahrukh - SCI - C3) conflicts with activity with id=227 (    1/6 - Shahrukh - SCI - C3), being 1 days too close, on days Mo and Mo, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
+Time constraint min days between activities broken: activity with id=294 (    1/4 - Nisha - R1 ENG - C6) conflicts with activity with id=293 (    1/4 - Nisha - R1 ENG - C6), being 1 days too close, on days Fr and Fr, conflicts factor increase=0.95. The activities are placed consecutively in the timetable, because you selected this option in case the activities are on the same day
+
+End of file.
